@@ -16,3 +16,6 @@ npm-debug.log*
 # OS
 .DS_Store
 Thumbs.db
+
+# В корневом .gitignore добавь:
+backend/.env
